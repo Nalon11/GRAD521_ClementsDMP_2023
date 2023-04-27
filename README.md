@@ -1,4 +1,4 @@
-# GRAD521_ClementsDMP_2023
+# GRAD521_DMPClements_2023
 
 Data management plan for the project physiological tollerance of birds to fragmentation in central Panama.
 
